@@ -1,5 +1,10 @@
 AI Voice-Controlled To-Do App - Backend
 
+![Screenshot 2025-03-26 170105](https://github.com/user-attachments/assets/fa0e3443-25b9-41f2-be8e-f351d736be19)
+![Screenshot 2025-03-26 170424](https://github.com/user-attachments/assets/f014b077-92ce-4861-87e7-315805ece5b5)
+
+
+
 This is the backend service for the AI Voice-Controlled To-Do App, built using Python (FastAPI) and MongoDB. It handles API requests for managing to-do tasks and integrates with speech recognition for voice commands.
 
 🚀 Features
