@@ -14,17 +14,14 @@ This is the backend service for the AI Voice-Controlled To-Do App, built using P
 ✅ User authentication & session management
 ✅ Deployment-ready with Render/Heroku
 
+## 🚀 Live Demo  
+🔗  [Live on Vercel]:- (https://ai-voice-todo-frontend-733c.vercel.app/)
+
 🛠️ Tech Stack
 Backend: Python, FastAPI
-
 Database: MongoDB
-
 Authentication: JWT
-
-Hosting: Render/Heroku
-
-Others: SpeechRecognition, Pydantic, Uvicorn
-
+Others: SpeechRecognition
 
 ⚡ Installation & Setup
 1️⃣ Clone the repository
@@ -56,6 +53,3 @@ POST	/tasks	Add a new task
 PUT	/tasks/{id}	Update a task
 DELETE	/tasks/{id}	Delete a task
 
-
-📞 Contact
-For any issues or suggestions, feel free to reach out!
